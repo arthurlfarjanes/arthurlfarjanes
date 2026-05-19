@@ -7,8 +7,8 @@ Desenvolvedor Full-Stack focado em criar soluções eficientes, escaláveis e em
 ### 🚀 Sobre Mim
 
 * 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** no Instituto Federal de São Paulo (IFSP - Campus Cubatão)
-* 💻 Atuação como **Desenvolvedor Full-Stack Freelancer** [cite: 4, 11][cite_start], unindo interfaces modernas e integrações robustas de sistemas
-* 👥 Experiência prática em liderança de equipes de desenvolvimento [cite: 35] [cite_start]e monitoria acadêmica
+* 💻 Atuação como **Desenvolvedor Full-Stack Freelancer**, unindo interfaces modernas e integrações robustas de sistemas
+* 👥 Experiência prática em liderança de equipes de desenvolvimento e monitoria acadêmica
 * 📍 Baseado em **Santos - SP**
 
 ---
